@@ -45,8 +45,12 @@ li{
 h2{
     text-align: center;
    border: 1px solid black;
-   width: 
-
+   border-radius: 15px;
+   width:50%;
+   margin-left: auto;
+   margin-right: auto;
+    background-color: black;
+    color: aliceblue;
 }
 
 th {

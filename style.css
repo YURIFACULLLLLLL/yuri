@@ -1,0 +1,55 @@
+#title {
+    text-align: center;
+    color: azure;
+    width: 92%;
+    padding: 60px;
+    background-color: black;
+    border-radius: 40px;
+
+}
+#nav {
+    text-align: center;
+    font-weight: 900;
+   padding-right: 50px;
+   
+
+}
+
+li{
+    display: inline;
+    padding: 6px;
+   
+}
+
+
+#Livros {
+         margin-left: auto;
+         margin-right: auto;
+         border-style: solid ;
+        border-color: black;
+        width: 85%;
+         height: 300px;
+        border-radius: 15px;
+}
+
+#Livros,th,td {
+            padding: 10px; 
+            border: 1px solid black; 
+}
+    
+
+
+
+
+
+h2{
+    text-align: center;
+   border: 1px solid black;
+   width: 
+
+}
+
+th {
+    background-color: black;
+    color: aliceblue;
+}
